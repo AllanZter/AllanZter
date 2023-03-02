@@ -10,6 +10,8 @@
 
 ![AllanZter's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanZter&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanZter)](https://github.com/AllanZter/github-readme-stats)
+
 ## Tecnologias Que Gosto de usar
 
 <div style="display: inline_block"><br/>
