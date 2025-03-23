@@ -1,6 +1,15 @@
 ### Olá Aqui é AllanZter🖐️
 
-Me chamo Allan, tenho 29 anos e atualmente curso Ciência da Computação. Trabalho na área de e-commerce em uma loja de instrumentos musicais, onde auxilio na edição de fotos, vendas online, edição de websites e desenvolvimento de APIs para atualização de estoque. Sou apaixonado por tecnologia e sempre busco aprender mais sobre desenvolvimento e automação
+Nasci em 1997 na cidade de São Paulo e meu primeiro contato com tecnologia foi através dos cursos de Redes de Computadores e Montagem de Microcomputadores no SENAI. A partir daí, meu interesse por linguagens de programação só cresceu, me levando a aprofundar meus conhecimentos na área de desenvolvimento.
+
+Atualmente, presto assessoria para uma empresa de medição, onde desenvolvi e mantenho o sistema interno, garantindo eficiência e automação dos processos. Além disso, também atuo no e-commerce de uma loja de instrumentos musicais, unindo tecnologia e negócios para otimizar a experiência do usuário e a gestão digital.
+
+
+
+Atualmente trabalho no e-commerce de uma loja de instrumentos musicais, onde atuo na gestão e otimização da plataforma digital. Sou estudante de Ciência da Computação e desenvolvedor fullstack, com domínio em JavaScript, HTML, CSS, Node.js, React, React Native e WordPress.
+
+Tenho experiência no desenvolvimento de aplicações web e mobile, criação de interfaces responsivas e otimização de sistemas. Minha paixão pela tecnologia me motiva a estar sempre aprendendo e buscando soluções inovadoras para melhorar a experiência do usuário e a performance das aplicações.
+
 
 ## Desenvolvedor FullStack
 <div>
